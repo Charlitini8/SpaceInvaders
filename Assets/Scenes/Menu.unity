@@ -1337,7 +1337,6 @@ GameObject:
   - component: {fileID: 996562664}
   - component: {fileID: 996562663}
   - component: {fileID: 996562662}
-  - component: {fileID: 996562668}
   m_Layer: 0
   m_Name: DesktopCamera
   m_TagString: Untagged
@@ -1493,21 +1492,6 @@ Transform:
   - {fileID: 1960915502}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &996562668
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 996562661}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e7ae6b61248075a4d8b41f8bffd08ed8, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::GazePointer
-  interactableLayer:
-    serializedVersion: 2
-    m_Bits: 8
 --- !u!1 &1227979261
 GameObject:
   m_ObjectHideFlags: 0
@@ -2476,6 +2460,18 @@ PrefabInstance:
     - target: {fileID: 6180968536867548214, guid: 3f0db571dd915a04bb5f35ee66071d9d, type: 3}
       propertyPath: m_Name
       value: ReticiePointer
+      objectReference: {fileID: 0}
+    - target: {fileID: 6569688710291586712, guid: 3f0db571dd915a04bb5f35ee66071d9d, type: 3}
+      propertyPath: m_Color.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6569688710291586712, guid: 3f0db571dd915a04bb5f35ee66071d9d, type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6569688710291586712, guid: 3f0db571dd915a04bb5f35ee66071d9d, type: 3}
+      propertyPath: m_Color.r
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
