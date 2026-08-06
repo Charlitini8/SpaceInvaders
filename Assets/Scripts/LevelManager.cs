@@ -5,6 +5,12 @@ public class LevelManager : ScriptableObject
 {
     public int levelIndex = 0;
     public LevelData[] levels;
+    public int LevelIndex => levelIndex;
+    public bool IsPastLastLevel => levelIndex >= levels.Length - 1;
+    public void Nextlevel()
+    {
+        levelIndex++;
+    }
     public void SetLevelIndex(int index)
     {
         levelIndex = index;
@@ -24,6 +30,7 @@ public class LevelManager : ScriptableObject
 }
 
 [System.Serializable]
+
 public class EnemiesData
 {
 public Enemy enemyPrefab;

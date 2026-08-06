@@ -17,7 +17,7 @@ public class Gun : MonoBehaviour
     private float gunDamage = 20f;
     [SerializeField]
     private string soundName;
-    private float rayDistance = 100f;
+    private float rayDistance = 1000f;
     public void Shoot()
     {
         Ray ray = cameraUsed.ViewportPointToRay(new Vector3(0.5f, 0.5f, 0f));

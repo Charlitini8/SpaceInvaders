@@ -310,8 +310,9 @@ MonoBehaviour:
   target: {fileID: 0}
   destroyAnimationName: Destroy
   destroySoundName: asteroid_destroy
+  appearSoundName: asteroid_appear
   rotateScript: {fileID: 3285381007556106270}
-  speed: 5
+  speed: 10
   damage: 20
   distanceToTarget: 150
 --- !u!135 &3127247866806932271
