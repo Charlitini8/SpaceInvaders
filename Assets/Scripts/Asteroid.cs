@@ -5,11 +5,7 @@ public class Asteroid : Enemy
     [SerializeField]
     private Rotate rotateScript;
     [SerializeField]
-    private float speed = 20f;
-    [SerializeField]
-    private float damage = 20f;
-    [SerializeField]
-    private float distanceToTarget = 10f;
+    private float distanceToTarget = 30f;
     public override void OnEnable()
     {
         base.OnEnable();
