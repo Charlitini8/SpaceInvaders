@@ -38,7 +38,7 @@ public class WinScreen : MonoBehaviour
         ShowScreenAssets(true);
         onShowWinScreen?.Invoke();
         ChangeTextMeshes("You\nLose");
-        nextLeveButton.SetActive(true);
+        nextLeveButton.SetActive(false);
         quitButton.SetActive(true);
     }
     private void ChangeTextMeshes(string text)
