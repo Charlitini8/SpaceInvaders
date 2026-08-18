@@ -27,6 +27,10 @@ MonoBehaviour:
       spawnTime: 12
     - enemyPrefab: {fileID: 5882933871637977224, guid: 45fd710729af05b4ca6296ebc07cb9b8, type: 3}
       spawnTime: 15
+    - enemyPrefab: {fileID: 5882933871637977224, guid: 45fd710729af05b4ca6296ebc07cb9b8, type: 3}
+      spawnTime: 18
+    - enemyPrefab: {fileID: 5882933871637977224, guid: 45fd710729af05b4ca6296ebc07cb9b8, type: 3}
+      spawnTime: 21
   - enemiesData:
     - enemyPrefab: {fileID: 6365931375064132421, guid: 5d17f354f038e8647a094f459440f89c, type: 3}
       spawnTime: 3
@@ -40,6 +44,20 @@ MonoBehaviour:
       spawnTime: 12
     - enemyPrefab: {fileID: 5882933871637977224, guid: 45fd710729af05b4ca6296ebc07cb9b8, type: 3}
       spawnTime: 14
+    - enemyPrefab: {fileID: 5882933871637977224, guid: 45fd710729af05b4ca6296ebc07cb9b8, type: 3}
+      spawnTime: 16
+    - enemyPrefab: {fileID: 5882933871637977224, guid: 45fd710729af05b4ca6296ebc07cb9b8, type: 3}
+      spawnTime: 18
+    - enemyPrefab: {fileID: 5882933871637977224, guid: 45fd710729af05b4ca6296ebc07cb9b8, type: 3}
+      spawnTime: 20
+    - enemyPrefab: {fileID: 5882933871637977224, guid: 45fd710729af05b4ca6296ebc07cb9b8, type: 3}
+      spawnTime: 22
+    - enemyPrefab: {fileID: 5882933871637977224, guid: 45fd710729af05b4ca6296ebc07cb9b8, type: 3}
+      spawnTime: 24
+    - enemyPrefab: {fileID: 5882933871637977224, guid: 45fd710729af05b4ca6296ebc07cb9b8, type: 3}
+      spawnTime: 26
+    - enemyPrefab: {fileID: 5882933871637977224, guid: 45fd710729af05b4ca6296ebc07cb9b8, type: 3}
+      spawnTime: 28
   - enemiesData:
     - enemyPrefab: {fileID: 5882933871637977224, guid: 45fd710729af05b4ca6296ebc07cb9b8, type: 3}
       spawnTime: 2
@@ -53,3 +71,33 @@ MonoBehaviour:
       spawnTime: 8
     - enemyPrefab: {fileID: 5882933871637977224, guid: 45fd710729af05b4ca6296ebc07cb9b8, type: 3}
       spawnTime: 9
+    - enemyPrefab: {fileID: 5882933871637977224, guid: 45fd710729af05b4ca6296ebc07cb9b8, type: 3}
+      spawnTime: 11
+    - enemyPrefab: {fileID: 5882933871637977224, guid: 45fd710729af05b4ca6296ebc07cb9b8, type: 3}
+      spawnTime: 12
+    - enemyPrefab: {fileID: 5882933871637977224, guid: 45fd710729af05b4ca6296ebc07cb9b8, type: 3}
+      spawnTime: 14
+    - enemyPrefab: {fileID: 5882933871637977224, guid: 45fd710729af05b4ca6296ebc07cb9b8, type: 3}
+      spawnTime: 15
+    - enemyPrefab: {fileID: 5882933871637977224, guid: 45fd710729af05b4ca6296ebc07cb9b8, type: 3}
+      spawnTime: 17
+    - enemyPrefab: {fileID: 5882933871637977224, guid: 45fd710729af05b4ca6296ebc07cb9b8, type: 3}
+      spawnTime: 18
+    - enemyPrefab: {fileID: 5882933871637977224, guid: 45fd710729af05b4ca6296ebc07cb9b8, type: 3}
+      spawnTime: 19
+    - enemyPrefab: {fileID: 5882933871637977224, guid: 45fd710729af05b4ca6296ebc07cb9b8, type: 3}
+      spawnTime: 21
+    - enemyPrefab: {fileID: 5882933871637977224, guid: 45fd710729af05b4ca6296ebc07cb9b8, type: 3}
+      spawnTime: 23
+    - enemyPrefab: {fileID: 5882933871637977224, guid: 45fd710729af05b4ca6296ebc07cb9b8, type: 3}
+      spawnTime: 25
+    - enemyPrefab: {fileID: 5882933871637977224, guid: 45fd710729af05b4ca6296ebc07cb9b8, type: 3}
+      spawnTime: 27
+    - enemyPrefab: {fileID: 5882933871637977224, guid: 45fd710729af05b4ca6296ebc07cb9b8, type: 3}
+      spawnTime: 29
+    - enemyPrefab: {fileID: 5882933871637977224, guid: 45fd710729af05b4ca6296ebc07cb9b8, type: 3}
+      spawnTime: 31
+    - enemyPrefab: {fileID: 5882933871637977224, guid: 45fd710729af05b4ca6296ebc07cb9b8, type: 3}
+      spawnTime: 32
+    - enemyPrefab: {fileID: 5882933871637977224, guid: 45fd710729af05b4ca6296ebc07cb9b8, type: 3}
+      spawnTime: 33
